@@ -1,5 +1,7 @@
 Esta version resuelve el problema "Precheck fails on "Validating whether source Org VDC placement policies are present in target PVDC" against newer versions of vCloud Director"
 Cambia el archivo Yaml de la migracion, donde se agrega los siguientes campos:
+Trabajaron en esta solucion: Christian Gonzalez y Juan Pablo Taño
+Pyxis Tech - Uruguay.
 ---
 VCloudDirector:
   ipAddress: # IP/FQDN of VMware Cloud Director
@@ -34,8 +36,10 @@ VCloudDirector:
 
     ##### ENGLISH ####
 
-    This release resolves the issue "Precheck fails on 'Validating whether source Org VDC placement policies are present in target PVDC' against newer versions of vCloud Director."
+This release resolves the issue "Precheck fails on 'Validating whether source Org VDC placement policies are present in target PVDC' against newer versions of vCloud Director."
 It changes the migration's Yaml file, adding the following fields:
+They worked on this solution: Christian Gonzalez and Juan Pablo Taño
+Pyxis Tech - Uruguay.
 ---
 vCloudDirector:
 ipAddress: # IP/FQDN of VMware Cloud Director
